@@ -41,10 +41,6 @@ public class LoginServlet extends HttpServlet {
 		out.println("</head>");
 		out.println("<body>");
 		out.println("<h1> Hi , my Name is sandeep kaushik </h1>");
-		out.println("<h1> Hi , I live in noida </h1>");
-		out.println("<h1> Hi , This is my webapp running in container </h1>");
-		out.println("<h1> Hi , Today's date 06/006/24 </h1>");
-		out.println("<h1> Hi , Today is monday </h1>");
 		out.println("</body>");
 		out.println("</html>");
 
