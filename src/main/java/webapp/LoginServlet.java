@@ -42,6 +42,7 @@ public class LoginServlet extends HttpServlet {
 		out.println("<body>");
 		out.println("<h1> Hi , my Name is sandeep kaushik </h1>");
 		out.println("<h1> Hi , I live in india</h1>");
+		out.println("<h1> This is git webhook page</h1>");
 		out.println("</body>");
 		out.println("</html>");
 
