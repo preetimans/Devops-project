@@ -40,11 +40,8 @@ public class LoginServlet extends HttpServlet {
 		out.println("<title>Techlanders Solutions</title>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("<h1> Hi , HI HSBC Team , This is jenkins Job </h1>");
-		out.println("<h1> Hi , HI HSBC Team , This is update file</h1>");
-		out.println("<h1> Hi , HI HSBC Team ,This is webhook update</h1>");
-		out.println("<h1> Hi , HI HSBC Team ,This is final work</h1>");
-		out.println("</body>");
+		out.println("<h1> Hi , HI Team , This is jenkins Job </h1>");
+			out.println("</body>");
 		out.println("</html>");
 
 	}
